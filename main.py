@@ -1,1 +1,4 @@
-import fuel_cons
+from fuel_cons import *
+
+# Hlavní cyklus
+#window_drive_data.mainloop()

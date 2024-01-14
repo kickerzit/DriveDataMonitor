@@ -1,0 +1,20 @@
+[
+    {
+        "Datum": "",
+        "Cena": 0,
+        "Mnozstvi": 0,
+        "Pocet km": 0
+    },
+    {
+        "Datum": "13-01-2024 12:50:06",
+        "Cena": 38.0,
+        "Mnozstvi": 12.0,
+        "Pocet km": 210000.0
+    },
+    {
+        "Datum": "14-01-2024 12:50:06",
+        "Cena": 39.0,
+        "Mnozstvi": 10.0,
+        "Pocet km": 211000.0
+    }
+]
